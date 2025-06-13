@@ -18,21 +18,7 @@ The project involved a full VAPT cycle including reconnaissance, vulnerability s
 
 ## 📁 Repository Structure
 
-/Cybersecurity-IP-6423/
-├── code/
-│ ├── encode_steganography.py
-│ ├── decode_steganography.py
-│ ├── input.png
-│ └── encoded_output.png
-├── IAC IP25 - LP DESIGN STAGE - Test Plan.xlsx
-├── IAC IP25 - LP Project Report.pdf
-├── IAC IP25 - LP Project Schedule.xlsx
-├── IAC IP25 - LP RAID log.xlsx
-├── IAC IP25 - LP REQUIREMENT ELICITATION.xlsx
-├── IAC IP25 - LP Traceability Matrix.xlsx
-├── IAC IP25 - Lessons Learnt Log.xlsx
-├── IAC IP25 - WBS – CYBERSECURITY.pptx
-├── IAC IP25 - Software Design Specification.docx
+<pre> /Cybersecurity-IP-6423/ ├── code/ │ ├── encode_steganography.py │ ├── decode_steganography.py │ ├── input.png │ │ └── encoded_output.png ├── IAC IP25 - LP DESIGN STAGE - Test Plan.xlsx ├── IAC IP25 - LP Project Report.pdf ├── IAC IP25 - LP Project Schedule.xlsx ├── IAC IP25 - LP RAID log.xlsx ├── IAC IP25 - LP REQUIREMENT ELICITATION.xlsx ├── IAC IP25 - LP Traceability Matrix.xlsx ├── IAC IP25 - Lessons Learnt Log.xlsx ├── IAC IP25 - WBS – CYBERSECURITY.pptx ├── IAC IP25 - Software Design Specification.docx </pre>
 
 > 🎥 Video demonstration excluded from the GitHub version due to file size and privacy.
 
